@@ -23,6 +23,6 @@ The College Lab Equipment Allocation System using Circular Linked List is a C++ 
 ## Result
 The College Lab Equipment Allocation System was successfully designed and implemented using C++ and a Circular Linked List. The system allows users to add students, allocate laboratory equipment, and display the waiting list. It provides an organized and efficient way to manage laboratory equipment allocation.
 
-6. Conclusion 
+## Conclusion 
 The College Lab Equipment Waiting and Allocation System is implemented using C++ and a circular linked list. It manages students in FIFO (First In, First Out) order and provides options to add students, allocate equipment, and display the waiting list. This project helps understand circular linked lists, pointers, and dynamic memory allocation.
 
