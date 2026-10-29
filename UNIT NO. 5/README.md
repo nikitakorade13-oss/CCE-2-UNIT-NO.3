@@ -1,8 +1,6 @@
 \# UNIT NO.5 - GRAPH
 
-
-
-\## Problem statement :-
+1\) Problem statement :-
 
 &#x20;To implement an adjacency list data structure in C++ to represent electrical substations and the transmission lines connecting them. The program should allow the user to add substations, establish transmission line connections, display the complete power grid network, and display all substations directly connected to a selected substation.
 
@@ -10,7 +8,7 @@
 
 
 
-\## Introduction :- 
+2\)  Introduction :-
 
 An electrical power grid consists of several substations connected through transmission lines. Substations help transform voltage levels and distribute electrical power between different parts of the network.
 
@@ -30,7 +28,7 @@ In this project, a C++ program uses an adjacency list to represent the electrica
 
 
 
-\## Objectives :-
+3\)  Objectives :-
 
 The main objectives of this project are:
 
@@ -66,7 +64,7 @@ The main objectives of this project are:
 
 
 
-\## Algorithm :-
+4\)  Algorithm :-
 
 
 
@@ -124,7 +122,7 @@ The main objectives of this project are:
 
 
 
-\## conclusion :- 
+5\)  conclusion :-
 
 
 
@@ -132,11 +130,5 @@ The project successfully demonstrates the use of an adjacency list to represent 
 
 
 
-The program can display the complete network and retrieve the direct connections of any existing substation. The adjacency-list representation provides efficient storage for sparse power-grid networks and can be extended to include transmission-line voltage, capacity, impedance, and operational status.
-
-
-
-
-
-
+The program can display the complete network and retrieve the direct connections of any existing substation. The adjacency list representation provides efficient storage for sparse power grid networks and can be extended to include transmission line voltage, capacity, impedance, and operational status.
 
