@@ -8,6 +8,8 @@
 
 
 
+
+
 2\)  Introduction :-
 
 An electrical power grid consists of several substations connected through transmission lines. Substations help transform voltage levels and distribute electrical power between different parts of the network.
@@ -23,6 +25,8 @@ An adjacency list is a graph representation in which every vertex stores a list 
 
 
 In this project, a C++ program uses an adjacency list to represent the electrical power grid. It displays all connections and allows the user to select a substation to view its directly connected substations. The transmission lines are assumed to be bidirectional.
+
+
 
 
 
@@ -59,6 +63,8 @@ The main objectives of this project are:
 
 
 7\. To identify direct connections: Allow the user to select a particular substation and display all its directly connected neighboring substations.
+
+
 
 
 
@@ -117,6 +123,8 @@ The main objectives of this project are:
 
 
 9\. Stop the program.
+
+
 
 
 
